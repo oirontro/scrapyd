@@ -1,0 +1,11 @@
+scrapyd
+logparser
+pandas
+sqlalchemy
+psycopg2-binary
+scrapy-rotating-proxies
+scrapy-useragents
+scrapy-user-agents
+html5lib
+BeautifulSoup4
+dateparser
