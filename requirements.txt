@@ -10,3 +10,4 @@ scrapy-fake-useragent
 html5lib
 BeautifulSoup4
 dateparser
+ironarms
